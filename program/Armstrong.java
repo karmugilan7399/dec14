@@ -10,6 +10,8 @@ public class Armstrong {
 		}
 		if (arm == temp) {
 			System.out.println("Armstrong  number");
+			System.out.println("Karmugilan");
+
 		} else {
 			System.out.println("not a amstrong number");
 		}
